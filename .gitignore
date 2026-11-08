@@ -1,0 +1,11 @@
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+Rplots.pdf
+
+# Generated output (re-created by the scripts)
+code/results/
+
+# macOS
+.DS_Store
