@@ -42,6 +42,13 @@ kernel for `X1` (left) and the link it implies (right).
 
 ![Coordinate descent animation](figures/algorithm_steps.gif)
 
+## Poster
+
+The poster gives a one-page overview of the theory, the estimator and the results
+(click to open the PDF).
+
+<a href="poster/Nasliednikov_Bachelor_Thesis_Poster.pdf"><img src="figures/poster_preview.jpg" width="700" alt="Poster: Functional Worst-Risk Minimization in Non-Linear Models"></a>
+
 ## Contents
 
 ```
